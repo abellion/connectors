@@ -38,7 +38,7 @@ importers:
       '@vercel/ncc': ^0.34.0
       dayjs: ^1.10.5
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       iconv-lite: 0.6.3
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
@@ -54,7 +54,7 @@ importers:
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
       dayjs: 1.11.5
-      got: 11.8.5
+      got: 12.5.2
       iconv-lite: 0.6.3
       snakecase-keys: 5.4.4
       zod: 3.18.0
@@ -94,7 +94,7 @@ importers:
       '@vercel/ncc': ^0.34.0
       dayjs: ^1.10.5
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       iconv-lite: 0.6.3
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
@@ -111,7 +111,7 @@ importers:
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
       dayjs: 1.11.5
-      got: 11.8.5
+      got: 12.5.2
       iconv-lite: 0.6.3
       snakecase-keys: 5.4.4
       zod: 3.18.0
@@ -146,7 +146,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       lint-staged: ^13.0.0
       prettier: ^2.7.1
@@ -156,7 +156,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -183,7 +183,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       lint-staged: ^13.0.0
       prettier: ^2.7.1
@@ -193,7 +193,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -220,7 +220,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       jose: ^4.3.8
@@ -233,7 +233,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       jose: 4.9.2
       zod: 3.18.0
     devDependencies:
@@ -264,7 +264,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -277,7 +277,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -306,7 +306,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -318,7 +318,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -347,7 +347,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -359,7 +359,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -388,7 +388,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -401,7 +401,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       query-string: 7.1.1
       zod: 3.18.0
     devDependencies:
@@ -431,7 +431,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -443,7 +443,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -472,7 +472,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -484,7 +484,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -594,7 +594,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -606,7 +606,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -635,7 +635,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       lint-staged: ^13.0.0
       prettier: ^2.7.1
@@ -645,7 +645,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -713,7 +713,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       lint-staged: ^13.0.0
       prettier: ^2.7.1
@@ -723,7 +723,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -750,7 +750,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -762,7 +762,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -791,7 +791,7 @@ importers:
       '@types/node': ^16.3.1
       '@vercel/ncc': ^0.34.0
       eslint: ^8.21.0
-      got: ^11.8.2
+      got: ^12.0.0
       jest: ^28.1.3
       jest-matcher-specific-error: ^1.0.0
       lint-staged: ^13.0.0
@@ -803,7 +803,7 @@ importers:
       '@logto/connector-kit': 1.0.0-beta.20
       '@silverhand/essentials': 1.2.0
       '@silverhand/jest-config': 1.0.0_556mfp7b5dutuj2jcrj5i7zc5q
-      got: 11.8.5
+      got: 12.5.2
       zod: 3.18.0
     devDependencies:
       '@jest/types': 28.1.3
@@ -2783,9 +2783,9 @@ packages:
   /@sinclair/typebox/0.24.34:
     resolution: {integrity: sha512-x3ejWKw7rpy30Bvm6U0AQMOHdjqe2E3YJrBHlTxH0KFsp77bBa+MH324nJxtXZFpnTy/JW2h5HPYVm0vG2WPnw==}
 
-  /@sindresorhus/is/4.6.0:
-    resolution: {integrity: sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==}
-    engines: {node: '>=10'}
+  /@sindresorhus/is/5.3.0:
+    resolution: {integrity: sha512-CX6t4SYQ37lzxicAqsBtxA3OseeoVrh9cSJ5PFYam0GksYlupRfy1A+Q4aYD3zvcfECLc0zO2u+ZnR2UYKvCrw==}
+    engines: {node: '>=14.16'}
     dev: false
 
   /@sinonjs/commons/1.8.3:
@@ -2798,9 +2798,9 @@ packages:
     dependencies:
       '@sinonjs/commons': 1.8.3
 
-  /@szmarczak/http-timer/4.0.6:
-    resolution: {integrity: sha512-4BAffykYOgO+5nzBWYwE3W90sBgLJoUPRWWcL8wlyiM8IB8ipJz3UMJ9KXQd1RKQXpKp8Tutn80HZtWsu2u76w==}
-    engines: {node: '>=10'}
+  /@szmarczak/http-timer/5.0.1:
+    resolution: {integrity: sha512-+PmQX0PiAYPMeVYe237LJAYvOMYW1j2rH5YROyS3b4CTVJum34HfRvKvAzozHAQG0TnHNdUfY9nCeUyRAs//cw==}
+    engines: {node: '>=14.16'}
     dependencies:
       defer-to-connect: 2.0.1
     dev: false
@@ -2851,15 +2851,6 @@ packages:
     dependencies:
       '@babel/types': 7.18.13
 
-  /@types/cacheable-request/6.0.2:
-    resolution: {integrity: sha512-B3xVo+dlKM6nnKTcmm5ZtY/OL8bOAOd2Olee9M1zft65ox50OzjEHW91sDiU9j6cvW8Ejg1/Qkf4xd2kugApUA==}
-    dependencies:
-      '@types/http-cache-semantics': 4.0.1
-      '@types/keyv': 3.1.4
-      '@types/node': 18.7.13
-      '@types/responselike': 1.0.0
-    dev: false
-
   /@types/cookiejar/2.1.2:
     resolution: {integrity: sha512-t73xJJrvdTjXrn4jLS9VSGRbz0nUY3cl2DMGDU48lKl+HR9dbbjW2A9r3g40VA++mQpy6uuHg33gy7du2BKpog==}
     dev: true
@@ -2893,10 +2884,6 @@ packages:
       pretty-format: 28.1.3
     dev: true
 
-  /@types/json-buffer/3.0.0:
-    resolution: {integrity: sha512-3YP80IxxFJB4b5tYC2SUPwkg0XQLiu0nWvhRgEatgjf+29IcWO9X1k8xRv5DGssJ/lCrjYTjQPcobJr2yWIVuQ==}
-    dev: false
-
   /@types/json-schema/7.0.11:
     resolution: {integrity: sha512-wOuvG1SN4Us4rez+tylwwwCV1psiNVOkJeM3AUWUNWg/jDQY2+HE/444y5gc+jBmRqASOm2Oeh5c1axHobwRKQ==}
     dev: true
@@ -2904,12 +2891,6 @@ packages:
   /@types/json5/0.0.29:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
-
-  /@types/keyv/3.1.4:
-    resolution: {integrity: sha512-BQ5aZNSCpj7D6K2ksrRCTmKRLEpnPvWDiLPfoGyhZ++8YtiK9d/3DBKPJgry359X/P1PfruyYwvnvwFjuEiEIg==}
-    dependencies:
-      '@types/node': 18.7.13
-    dev: false
 
   /@types/lodash.pick/4.4.7:
     resolution: {integrity: sha512-HgdyKz7/1+oeoVzbpu1XiX/Bti9AUksHtOILH38T07aKvqoirzcdOsrO2+Yg3L51Hv/8m1MetvHZEUGeABiTiQ==}
@@ -2955,12 +2936,6 @@ packages:
 
   /@types/prettier/2.7.0:
     resolution: {integrity: sha512-RI1L7N4JnW5gQw2spvL7Sllfuf1SaHdrZpCHiBlCXjIlufi1SMNnbu2teze3/QE67Fg2tBlH7W+mi4hVNk4p0A==}
-
-  /@types/responselike/1.0.0:
-    resolution: {integrity: sha512-85Y2BjiufFzaMIlvJDvTTB8Fxl2xfLo4HgmHzVBz08w4wDePCTjYw66PdrolO0kzli3yam/YCgRufyo1DdQVTA==}
-    dependencies:
-      '@types/node': 18.7.13
-    dev: false
 
   /@types/stack-utils/2.0.1:
     resolution: {integrity: sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==}
@@ -3559,22 +3534,22 @@ packages:
       ylru: 1.3.2
     dev: true
 
-  /cacheable-lookup/5.0.4:
-    resolution: {integrity: sha512-2/kNscPhpcxrOigMZzbiWF7dz8ilhb/nIHU3EyZiXWXpeq/au8qJ8VhdftMkty3n7Gj6HIGalQG8oiBNB3AJgA==}
-    engines: {node: '>=10.6.0'}
+  /cacheable-lookup/7.0.0:
+    resolution: {integrity: sha512-+qJyx4xiKra8mZrcwhjMRMUhD5NR1R8esPkzIYxX96JiecFoxAXFuz/GpR3+ev4PE1WamHip78wV0vcmPQtp8w==}
+    engines: {node: '>=14.16'}
     dev: false
 
-  /cacheable-request/7.0.2:
-    resolution: {integrity: sha512-pouW8/FmiPQbuGpkXQ9BAPv/Mo5xDGANgSNXzTzJ8DrKGuXOssM4wIQRjfanNRh3Yu5cfYPvcorqbhg2KIJtew==}
-    engines: {node: '>=8'}
+  /cacheable-request/10.2.2:
+    resolution: {integrity: sha512-KxjQZM3UIo7/J6W4sLpwFvu1GB3Whv8NtZ8ZrUL284eiQjiXeeqWTdhixNrp/NLZ/JNuFBo6BD4ZaO8ZJ5BN8Q==}
+    engines: {node: '>=14.16'}
     dependencies:
-      clone-response: 1.0.3
-      get-stream: 5.2.0
+      '@types/http-cache-semantics': 4.0.1
+      get-stream: 6.0.1
       http-cache-semantics: 4.1.0
-      keyv: 4.4.1
-      lowercase-keys: 2.0.0
-      normalize-url: 6.1.0
-      responselike: 2.0.1
+      keyv: 4.5.0
+      mimic-response: 4.0.0
+      normalize-url: 7.2.0
+      responselike: 3.0.0
     dev: false
 
   /call-bind/1.0.2:
@@ -3735,12 +3710,6 @@ packages:
       shallow-clone: 3.0.1
     dev: true
 
-  /clone-response/1.0.3:
-    resolution: {integrity: sha512-ROoL94jJH2dUVML2Y/5PEDNaSHgeOdSDicUyS7izcF63G6sTc/FTjLub4b8Il9S8S0beOfYt0TaA5qvFK+w0wA==}
-    dependencies:
-      mimic-response: 1.0.1
-    dev: false
-
   /clone/1.0.4:
     resolution: {integrity: sha512-JQHZ2QMW6l3aH/j6xCqQThY/9OH4D/9ls34cgkUBiEeocRTU04tHfKPBsUK1PqZCUQM7GiA0IIXJSuXHI64Kbg==}
     engines: {node: '>=0.8'}
@@ -3835,14 +3804,6 @@ packages:
   /component-emitter/1.3.0:
     resolution: {integrity: sha512-Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg==}
     dev: true
-
-  /compress-brotli/1.3.8:
-    resolution: {integrity: sha512-lVcQsjhxhIXsuupfy9fmZUFtAIdBmXA7EGY6GBdgZ++qkM9zG4YFT8iU7FoBxzryNDMOpD1HIFHUSX4D87oqhQ==}
-    engines: {node: '>= 12'}
-    dependencies:
-      '@types/json-buffer': 3.0.0
-      json-buffer: 3.0.1
-    dev: false
 
   /concat-map/0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
@@ -4319,6 +4280,7 @@ packages:
     resolution: {integrity: sha512-+uw1inIHVPQoaVuHzRyXd21icM+cnt4CzD5rW+NC1wjOUSTOs+Te7FOv7AhN7vS9x/oIyhLP5PR1H+phQAHu5Q==}
     dependencies:
       once: 1.4.0
+    dev: true
 
   /enhanced-resolve/5.10.0:
     resolution: {integrity: sha512-T0yTFjdpldGY8PmuXXR0PyQ1ufZpEGiHVrp7zHKB7jdR4qlmZHhONVM5AQOAWXuF/w3dnHbEQVrNptJgt7F+cQ==}
@@ -5003,6 +4965,11 @@ packages:
     resolution: {integrity: sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==}
     dev: true
 
+  /form-data-encoder/2.1.3:
+    resolution: {integrity: sha512-KqU0nnPMgIJcCOFTNJFEA8epcseEaoox4XZffTgy8jlI6pL/5EFyR54NRG7CnCJN0biY7q52DO3MH6/sJ/TKlQ==}
+    engines: {node: '>= 14.17'}
+    dev: false
+
   /form-data/4.0.0:
     resolution: {integrity: sha512-ETEklSGi5t0QMZuiXoA/Q6vcnxcLQP5vdugSpuAyi6SVGi2clPPp+xgEhuMaHC+zGgn31Kd235W35f7Hykkaww==}
     engines: {node: '>= 6'}
@@ -5141,13 +5108,6 @@ packages:
     resolution: {integrity: sha512-7oKuKzAGKj0ag+eWZwcGw2fjiZ78tXnXQoBgY0aU7ZOxTu4bB7hSuQSDgtKy978EDH062P5FmD2EWiDpQS9K9Q==}
     engines: {node: '>=0.10.0'}
     dev: true
-
-  /get-stream/5.2.0:
-    resolution: {integrity: sha512-nBF+F1rAZVCu/p7rjzgA+Yb4lfYXrpl7a6VmJrU8wF9I1CKvP/QwPNZHnOlwbTkY6dvtFIzFMSyQXbLoTQPRpA==}
-    engines: {node: '>=8'}
-    dependencies:
-      pump: 3.0.0
-    dev: false
 
   /get-stream/6.0.1:
     resolution: {integrity: sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==}
@@ -5308,21 +5268,21 @@ packages:
     resolution: {integrity: sha512-uHJgbwAMwNFf5mLst7IWLNg14x1CkeqglJb/K3doi4dw6q2IvAAmM/Y81kevy83wP+Sst+nutFTYOGg3d1lsxg==}
     dev: true
 
-  /got/11.8.5:
-    resolution: {integrity: sha512-o0Je4NvQObAuZPHLFoRSkdG2lTgtcynqymzg2Vupdx6PorhaT5MCbIyXG6d4D94kk8ZG57QeosgdiqfJWhEhlQ==}
-    engines: {node: '>=10.19.0'}
+  /got/12.5.2:
+    resolution: {integrity: sha512-guHGMSEcsA5m1oPRweXUJnug0vuvlkX9wx5hzOka+ZBrBUOJHU0Z1JcNu3QE5IPGnA5aXUsQHdWOD4eJg9/v3A==}
+    engines: {node: '>=14.16'}
     dependencies:
-      '@sindresorhus/is': 4.6.0
-      '@szmarczak/http-timer': 4.0.6
-      '@types/cacheable-request': 6.0.2
-      '@types/responselike': 1.0.0
-      cacheable-lookup: 5.0.4
-      cacheable-request: 7.0.2
+      '@sindresorhus/is': 5.3.0
+      '@szmarczak/http-timer': 5.0.1
+      cacheable-lookup: 7.0.0
+      cacheable-request: 10.2.2
       decompress-response: 6.0.0
-      http2-wrapper: 1.0.3
-      lowercase-keys: 2.0.0
-      p-cancelable: 2.1.1
-      responselike: 2.0.1
+      form-data-encoder: 2.1.3
+      get-stream: 6.0.1
+      http2-wrapper: 2.1.11
+      lowercase-keys: 3.0.0
+      p-cancelable: 3.0.0
+      responselike: 3.0.0
     dev: false
 
   /graceful-fs/4.2.10:
@@ -5460,8 +5420,8 @@ packages:
       - supports-color
     dev: true
 
-  /http2-wrapper/1.0.3:
-    resolution: {integrity: sha512-V+23sDMr12Wnz7iTcDeJr3O6AIxlnvT/bmaAAAP/Xda35C90p9599p0F1eHR/N1KILWSoWVAiOMFjBBXaXSMxg==}
+  /http2-wrapper/2.1.11:
+    resolution: {integrity: sha512-aNAk5JzLturWEUiuhAN73Jcbq96R7rTitAoXV54FYMatvihnpD2+6PUgU4ce3D/m5VDbw+F5CsyKSF176ptitQ==}
     engines: {node: '>=10.19.0'}
     dependencies:
       quick-lru: 5.1.1
@@ -6492,10 +6452,9 @@ packages:
       tsscmp: 1.0.6
     dev: true
 
-  /keyv/4.4.1:
-    resolution: {integrity: sha512-PzByhNxfBLnSBW2MZi1DF+W5+qB/7BMpOokewqIvqS8GFtP7xHm2oeGU72Y1fhtfOv/FiEnI4+nyViYDmUChnw==}
+  /keyv/4.5.0:
+    resolution: {integrity: sha512-2YvuMsA+jnFGtBareKqgANOEKe1mk3HKiXu2fRmAfyxG0MJAywNhi5ttWA3PMjl4NmpyjZNbFifR2vNjW1znfA==}
     dependencies:
-      compress-brotli: 1.3.8
       json-buffer: 3.0.1
     dev: false
 
@@ -6802,9 +6761,9 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /lowercase-keys/2.0.0:
-    resolution: {integrity: sha512-tqNXrS78oMOE73NMxK4EMLQsQowWf8jKooH9g7xPavRT706R6bkQJ6DY2Te7QukaZsulxa30wQ7bk0pm4XiHmA==}
-    engines: {node: '>=8'}
+  /lowercase-keys/3.0.0:
+    resolution: {integrity: sha512-ozCC6gdQ+glXOQsveKD0YsDy8DSQFjDTz4zyzEHNV5+JP5D62LmfDZ6o1cycFx9ouG940M5dE8C8CTewdj2YWQ==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     dev: false
 
   /lru-cache/6.0.0:
@@ -6953,14 +6912,14 @@ packages:
     engines: {node: '>=12'}
     dev: true
 
-  /mimic-response/1.0.1:
-    resolution: {integrity: sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ==}
-    engines: {node: '>=4'}
-    dev: false
-
   /mimic-response/3.1.0:
     resolution: {integrity: sha512-z0yWI+4FDrrweS8Zmt4Ej5HdJmky15+L2e6Wgn3+iK5fWzb6T3fhNFq2+MeTRb064c6Wr4N/wv0DzQTjNzHNGQ==}
     engines: {node: '>=10'}
+    dev: false
+
+  /mimic-response/4.0.0:
+    resolution: {integrity: sha512-e5ISH9xMYU0DzrT+jl8q2ze9D6eWBto+I8CNpe+VI+K2J/F/k3PdkdTdz4wvGVH4NTpo+NRYTVIuMQEMMcsLqg==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     dev: false
 
   /min-indent/1.0.1:
@@ -7254,6 +7213,12 @@ packages:
   /normalize-url/6.1.0:
     resolution: {integrity: sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==}
     engines: {node: '>=10'}
+    dev: true
+
+  /normalize-url/7.2.0:
+    resolution: {integrity: sha512-uhXOdZry0L6M2UIo9BTt7FdpBDiAGN/7oItedQwPKh8jh31ZlvC8U9Xl/EJ3aijDHaywXTW3QbZ6LuCocur1YA==}
+    engines: {node: '>=12.20'}
+    dev: false
 
   /npm-bundled/1.1.2:
     resolution: {integrity: sha512-x5DHup0SuyQcmL3s7Rx/YQ8sbw/Hzg0rj48eN0dV7hf5cmQq5PXIeioroH3raV1QC1yh3uTYuMThvEQF3iKgGQ==}
@@ -7511,9 +7476,9 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /p-cancelable/2.1.1:
-    resolution: {integrity: sha512-BZOr3nRQHOntUjTrH8+Lh54smKHoHyur8We1V8DSMVrl5A2malOOwuJRnKRDjSnkoeBh4at6BwEnb5I7Jl31wg==}
-    engines: {node: '>=8'}
+  /p-cancelable/3.0.0:
+    resolution: {integrity: sha512-mlVgR3PGuzlo0MmTdk4cXqXWlwQDLnONTAg6sm62XkMJEiRxN3GL3SffkYvqwonbkJBcrI7Uvv5Zh9yjvn2iUw==}
+    engines: {node: '>=12.20'}
     dev: false
 
   /p-finally/1.0.0:
@@ -7890,13 +7855,6 @@ packages:
     resolution: {integrity: sha512-/XJ368cyBJ7fzLMwLKv1e4vLxOju2MNAIokcr7meSaNcVbWz/CPcW22cP04mwxOErdA5mwjA8Q6w/cdAQxVn7Q==}
     dev: true
 
-  /pump/3.0.0:
-    resolution: {integrity: sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==}
-    dependencies:
-      end-of-stream: 1.4.4
-      once: 1.4.0
-    dev: false
-
   /punycode/2.1.1:
     resolution: {integrity: sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==}
     engines: {node: '>=6'}
@@ -8128,10 +8086,11 @@ packages:
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
 
-  /responselike/2.0.1:
-    resolution: {integrity: sha512-4gl03wn3hj1HP3yzgdI7d3lCkF95F21Pz4BPGvKHinyQzALR5CapwC8yIi0Rh58DEMQ/SguC03wFj2k0M/mHhw==}
+  /responselike/3.0.0:
+    resolution: {integrity: sha512-40yHxbNcl2+rzXvZuVkrYohathsSJlMTXKryG5y8uciHv1+xDLHQpgjG64JUO9nrEq2jGLH6IZ8BcZyw3wrweg==}
+    engines: {node: '>=14.16'}
     dependencies:
-      lowercase-keys: 2.0.0
+      lowercase-keys: 3.0.0
     dev: false
 
   /restore-cursor/3.1.0:
